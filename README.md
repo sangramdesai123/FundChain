@@ -33,7 +33,7 @@ A block-chain based startup funding website for Global BlockChain Hackathon usin
 
 **Contributer** : The Contributer contributes money to the a campaign and decides to send an approval to a request.
 
-------------------------------------------
+
 ## **Roll of BlockChain** :
   As we know using blockchain we can create contracts that no one can tamper (i.e **High Security**) so using this fact we tried to create a website where every transaction can happen on blockchain.
   
